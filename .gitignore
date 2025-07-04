@@ -1,0 +1,9 @@
+# FastAdmin默认忽略规则
+runtime/
+public/uploads/
+application/database.php
+.env
+
+# 编辑器/IDE缓存
+.idea/
+.vscode/
